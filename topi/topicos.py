@@ -10,11 +10,11 @@ st.set_page_config(
 
 paginas = {
     "Home":[
-    st.Page("topi/Paginas/home.py", 
+    st.Page("Paginas/home.py", 
         title = "🏠 Página Inicial", icon = "", default = True)
     ],
     "Revisões": [
-    st.Page("topi/Paginas/tes.py", 
+    st.Page("Paginas/tes.py", 
         title = "📰 Upload e resultado", icon = "")  
     ]
 
